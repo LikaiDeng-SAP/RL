@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\dengl\\PycharmProjects\\Q_Learning_Maze\\models\\uav_circle.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\dengl\\PycharmProjects\\Q_Learning_Maze\\models\\uav_circle.ckpt"
